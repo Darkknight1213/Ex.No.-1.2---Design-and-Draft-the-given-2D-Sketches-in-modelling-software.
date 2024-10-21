@@ -37,6 +37,7 @@
 
  ## OUTPUT
  [Mohamed Riyaz Ahamed EXPT 1.2.pdf](https://github.com/user-attachments/files/17455554/Mohamed.Riyaz.Ahamed.EXPT.1.2.pdf)
+ ![image](https://github.com/user-attachments/assets/66f94648-5142-4a68-8105-57d966408960)
 
  
  ## RESULT
