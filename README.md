@@ -36,8 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- [Mohamed Riyaz Ahamed Expt 1.2 Drawing v2.pdf](https://github.com/user-attachments/files/17528979/Mohamed.Riyaz.Ahamed.Expt.1.2.Drawing.v2.pdf)
- ![image](https://github.com/user-attachments/assets/de071db5-51a9-4ef1-8a2d-57ef4c3ad31b)
+ ![image](https://github.com/user-attachments/assets/c95cfc0b-e4bc-40b8-a3c0-20a681c25fcc)
+
 
  
  ## RESULT
